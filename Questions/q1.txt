@@ -1,0 +1,15 @@
+Todays Question:
+
+Image: https://raw.githubusercontent.com/pranjalg13/quiz_questions/main/final_question_1.png
+
+Question: What is the correct JavaScript syntax to change the content of the HTML element below?
+
+Options: 
+1. document.getElementByName("p").innerHTML = "Hello World!";
+2. document.getElementById("demo").innerHTML = "Hello World!";
+3. #demo.innerHTML = "Hello World!";
+4. document.getElement("p").innerHTML = "Hello World!";
+
+Answer: 2
+
+Explaination: The correct syntax to access the element is document.getElementById("p"). Here we want to access the content written under that id, so we used .innerHTML to specify that and finally we replaced the content with whatever is written inside the quotes.

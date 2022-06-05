@@ -1,0 +1,9 @@
+Image: https://raw.githubusercontent.com/pranjalg13/quiz_questions/main/final_q_3.png
+
+8. Which among the following doesn’t come under OOP concept?
+a) false
+b) true
+c) compilation error
+d) runtime error
+Answer: b
+Explanation: The == in JS convert different types of operands to the same type before making the comparison. A strict comparison results in true value if the operands are of the same type and the contents match.

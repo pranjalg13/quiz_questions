@@ -1,0 +1,11 @@
+Question: 
+What is the use of the <noscript> tag in Javascript?
+
+Options: 
+1. The contents are displayed by non-JS-based browsers.
+2. Clears all the cookies and cache.
+3. Both A and B
+4. None
+
+Answer: 1 (The contents...)
+Explaination: The <noscript> tag defines an alternate content to be displayed to users that have disabled scripts in their browser

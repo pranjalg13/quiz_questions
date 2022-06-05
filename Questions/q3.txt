@@ -1,0 +1,11 @@
+
+Image: https://raw.githubusercontent.com/pranjalg13/quiz_questions/main/final_quesions_2.png
+Question: What will be the output of the following code snippet?
+Options: 
+1. al
+2. ale
+3. cal
+4. caler
+
+Answer: 1 (al)
+Explaination: The substring function will count from index 2 to 3 (4th index will be excluded). The character present at 2 and 3 are "a" and "l" respectively. So the answer is "al".

@@ -1,0 +1,8 @@
+What is a database?
+a) Organized collection of information that cannot be accessed, updated, and managed
+b) Collection of data or information without organizing
+c) Organized collection of data or information that can be accessed, updated, and managed
+d) Organized collection of data that cannot be updated
+
+Answer: C
+Explanation: It is defined as an organized collection of data or information for easy access, updating, and management in a computer.
